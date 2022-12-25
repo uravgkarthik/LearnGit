@@ -1,2 +1,3 @@
 Namskara Guru 
 This is Karthik Ravishankar from Bengaluru
+Checking git commit -a
